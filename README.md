@@ -1,4 +1,4 @@
-# Data-Migration-BDC-Call-Transaction
+# Data-Migration-BDC-Session Method
 This repository contains the data migration program using batch data communication through session method.
 
 # Program
